@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pablo
-- 👀 I’m interested in software-development and sustainability
-- 🌱 I’m currently learning setting up clean / hexagon architecture.
-- 💞️ I’m looking to collaborate on 3D modelling.
+- 👀 I am a master student from germany, who also works as a full-stack developer.
+- 🌱 I’m into coding, tech trends and retro tech, especially keyboards!
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/pablo-stockhausen-7656011ab/) page
 
 <!---
