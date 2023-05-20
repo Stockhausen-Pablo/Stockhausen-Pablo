@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo
-- 👀 I am a master student from germany, who also works as a full-stack developer.
+- 👀 I am a master student from germany, who also works as a software developer
 - 🌱 I’m into coding, tech trends and retro tech, especially keyboards!
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/pablo-stockhausen-7656011ab/) page
 
