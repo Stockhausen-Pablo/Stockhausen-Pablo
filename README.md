@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo
-- 👀 I am a master student from germany, who also works as a software developer
+- 👀 I am a software developer from germany with a passion for DevOps topics
 - 🌱 I’m into coding, tech trends and self-hosting!
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/pablo-stockhausen-7656011ab/) page
 
